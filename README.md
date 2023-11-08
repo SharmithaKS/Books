@@ -2,12 +2,6 @@
 
 This project is about CRUD operation in using Node js and MongoDb
 
-## Table of Contents
-
-- [API Endpoints](#api-endpoints)
-- [Usage](#usage)
-- [Setup](#setup)
-- [Decisions and Assumptions](#decisions-and-assumptions)
 
 ## API Endpoints
 
